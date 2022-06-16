@@ -1,0 +1,10 @@
+git clone 
+git add .
+git commit -m 
+git push 
+git branch 
+git branch --list
+git branch -d 
+git branch status
+git checkout [branch name]
+git push --set-upstream origin 
